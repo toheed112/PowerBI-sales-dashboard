@@ -4,8 +4,6 @@
 Developed an automated sales analytics dashboard that processes 150,000+ transactions across 4 years, enabling real-time visibility into key performance metrics and market trends.
 
 
-## Video Demonstration (sound on)
-https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4ba
 
 ## Business Impact
 - Automated manual reporting processes, reducing analysis time by 80%
